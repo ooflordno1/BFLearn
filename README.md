@@ -1,6 +1,6 @@
 ## Welcome to BFLearn
 
-To download the jar file please [click here](https://github.com/blazingforest/BFLearn/BFLearn.jar).
+To download the jar file please [click here](https://github.com/blazingforest/BFLearn/raw/master/BFLearn.jar).
 
 
 ### What is BFLearn?
