@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to BFLearn
 
-You can use the [editor on GitHub](https://github.com/blazingforest/BFLearn/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+To download the jar file please [click here](https://github.com/blazingforest/BFLearn/BFLearn.jar).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### What is BFLearn?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blazingforest/BFLearn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+BFLearn is a Java application that is meant to help with learning in Auckland Grammar School. It provides resources and exercises for students. It is free and right now doesn't require a log in and is not subject to only Auckland Grammar School. I hope you enjoy it!
