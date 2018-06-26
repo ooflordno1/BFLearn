@@ -7,6 +7,9 @@ BFLearn is a Java application that is meant to help with learning in Auckland Gr
 ### Downloads
 
 Windows .exe [Download](https://github.com/blazingforest/BFLearn/raw/master/BFLearn.exe).
+
 Mac .zip [Download](https://github.com/blazingforest/BFLearn/raw/master/BFLearn.zip).
+
 Linux .sh [Download](https://github.com/blazingforest/BFLearn/raw/master/BFLearn.sh).
+
 Java .jar [download](https://github.com/blazingforest/BFLearn/raw/master/BFLearn.jar).
