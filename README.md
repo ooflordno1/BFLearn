@@ -6,16 +6,16 @@ BFLearn is a Java application that is meant to help with study. It has resources
 
 ### Downloads
 
-Windows [ [Download .exe](https://github.com/blazingforest/BFLearn/raw/master/BFLearn.exe) ]
+Windows [ [Download .exe](https://github.com/blazingforest/BFLearn/raw/master/BFLearnWindows.exe) ]
 
 
-Mac [ [Download .zip](https://github.com/blazingforest/BFLearn/raw/master/BFLearn.zip) ]
+Mac [ [Download .zip](https://github.com/blazingforest/BFLearn/raw/master/BFLearnMac.zip) ]
 
 
-Linux [ [Download .sh](https://github.com/blazingforest/BFLearn/raw/master/BFLearn.sh) ]
+Linux [ [Download .sh](https://github.com/blazingforest/BFLearn/raw/master/BFLearnLinux.sh) ]
 
 
-Java [ [Download .jar](https://github.com/blazingforest/BFLearn/raw/master/BFLearn.jar) ]
+Java [ [Download .jar](https://github.com/blazingforest/BFLearn/raw/master/BFLearnJava.jar) ]
 
 ### Discord Server 
 
