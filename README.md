@@ -6,7 +6,7 @@ BFLearn is a Java application that is meant to help with study. It has resources
 
 ### Downloads
 
-Java [ [Download .jar](https://github.com/blazingforest/BFLearn/raw/master/BFLearnJava.jar) ] ( Should work on all computers )
+Java [ [Download .jar](https://github.com/blazingforest/BFLearn/raw/master/BFLearnJava.jar) ] ( Should work on all computers with Java installed )
 
 
 Windows [ [Download .exe](https://github.com/blazingforest/BFLearn/raw/master/BFLearnWindows.exe) ]
