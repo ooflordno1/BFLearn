@@ -17,6 +17,8 @@ Mac [ [Download .zip](https://github.com/blazingforest/BFLearn/raw/master/BFLear
 
 Linux [ [Download .sh](https://github.com/blazingforest/BFLearn/raw/master/BFLearnLinux.sh) ]
 
+Java Offline [ [Download .jar](https://github.com/blazingforest/BFLearn/raw/master/BFLearnOffline.jar) ] ( Keep in mind this doesn't get updated often )
+
 ### Discord Server 
 
 If you have any problems with BFLearn or you want to add content to it please join the Discord server!
